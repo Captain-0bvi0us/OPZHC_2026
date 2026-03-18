@@ -4,7 +4,6 @@
 
 **Markdown с Mermaid**
 
-flowchart TD
 ```mermaid
 subgraph PRIBOR ["ОПС ПРИБОР"]
     direction TB
